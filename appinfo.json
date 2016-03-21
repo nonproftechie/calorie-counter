@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "nesher181@gmail.com",
+    "enableMultiJS": true,
+    "longName": "calorie-counter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "calorie-counter",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7d81188c-7536-40c5-84a1-c3d866465b22",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
